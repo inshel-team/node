@@ -30,4 +30,4 @@ const newInvite = async (node, key) {
 
 ## Use invite
 
-With invite your can create a [new key](./keys.md).
+With invite your can create a [new key](https://github.com/inshel-team/node/blob/master/docs/keys.md).

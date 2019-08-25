@@ -11,8 +11,8 @@ IS Network works not only on server, but also in browser tabs, mobile applicatio
 ## InShel Network
 
 IS Network is an api-oriented virtual network.
-For identification in the network [IS Keys](./docs/keys.md) are used.
-To provide access to resources, the [concept of contracts](./docs/contracts.md) is used.
+For identification in the network [IS Keys](https://github.com/inshel-team/node/blob/master/docs/keys.md) are used.
+To provide access to resources, the [concept of contracts](https://github.com/inshel-team/node/blob/master/docs/contracts.md) is used.
 
 ## Install
 
@@ -33,29 +33,29 @@ const connect = async () => {
 
 ## Docs
 
-- [InShel Node](./docs/node.md)  
+- [InShel Node](https://github.com/inshel-team/node/blob/master/docs/node.md)  
 Node supports your connection with InShel Network.
 
-- [Keys](./docs/keys.md)  
+- [Keys](https://github.com/inshel-team/node/blob/master/docs/keys.md)  
 InShel network use RSA keys to authorize nodes.  
 Your can manage your keys in [explorer.inshel.dev](https://explorer.inshel.dev/#!/keys)
 
-- [Invites](./docs/invites.md)  
+- [Invites](https://github.com/inshel-team/node/blob/master/docs/invites.md)  
 InShel Network has closed beta status.  
 We use invites to provide access.
 
-- [Contracts](./docs/contracts.md)  
+- [Contracts](https://github.com/inshel-team/node/blob/master/docs/contracts.md)  
 Contracts solve routing problem in InShel Network.  
 Your can manage your contracts in [explorer.inshel.dev](https://explorer.inshel.dev/#!/contracts)
 
-- [Contract keys](./docs/contract-keys.md)  
+- [Contract keys](https://github.com/inshel-team/node/blob/master/docs/contract-keys.md)  
 Contract keys allow your clients use InShel Network.  
 This keys can execute strict only its contracts lambda and can't work with other contracts and invites.
 
-- [Rays](./docs/rays.md)  
+- [Rays](https://github.com/inshel-team/node/blob/master/docs/rays.md)  
 Ray is a contracts event bus.
 
-- [Redirect](./docs/redirect.md)  
+- [Redirect](https://github.com/inshel-team/node/blob/master/docs/redirect.md)  
 IS Network allow redirect lambda execution.
 
 ## Contribution
