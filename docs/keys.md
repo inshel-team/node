@@ -1,7 +1,7 @@
 # Keys
 
 InShel network use RSA keys to authorize nodes.  
-Your can manage your keys in [exporer.inshel.dev](https://exporer.inshel.dev/#!/keys)
+Your can manage your keys in [explorer.inshel.dev](https://explorer.inshel.dev/#!/keys)
 
 # Create new key
 
